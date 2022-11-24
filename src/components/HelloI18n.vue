@@ -1,5 +1,5 @@
 <template>
-  <p>{{ $t('hello') }}</p>
+  <h1 class="text-red-600">{{ $t('message') }}</h1>
 </template>
 
 <script>
